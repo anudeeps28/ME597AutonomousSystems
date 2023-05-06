@@ -1,0 +1,8 @@
+prefix=/home/pi/aut_sys_ws/devel
+
+Name: aut_sys
+Description: Description of aut_sys
+Version: 0.0.0
+Cflags: -I/home/pi/aut_sys_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

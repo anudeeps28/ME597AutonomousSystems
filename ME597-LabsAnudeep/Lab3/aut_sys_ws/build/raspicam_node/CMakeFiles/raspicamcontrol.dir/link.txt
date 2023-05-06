@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pi/aut_sys_ws/devel/lib/libraspicamcontrol.a  CMakeFiles/raspicamcontrol.dir/src/RaspiCamControl.c.o
+/usr/bin/ranlib /home/pi/aut_sys_ws/devel/lib/libraspicamcontrol.a
